@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">MakeUp</string>
+    <string name="bridal_makeup">
+From the blending foundation to lipstick that lasts all day, we got step-by-step beauty tips to help you make the most of your make up:
+
+        \n\nStep:1: Moisturizer
+Use a cleat cotton Swap to scoop out a small amount, warm it up in your hands and the press it into your face. Massage it for 30 seconds, don’t forget your neck and the tips of your eye brow.
+        \n\nStep 2: Primer
+Gives longevity for your foundation warm up a dime-sized amount that massage it int the face, cover entire face with it and bring it down the neck to soften the appearance t of the skin
+
+        \n\nStep 3: Foundation
+Squirt some onto your hand warm it up and blend it in using your tongue or sponge. Then using the dry side of the sponge, butt the into your face.
+
+        \n\nStep 4: Concealer
+Get two shades of concealer – a lighter one and a darker one and blend them together on the back of your hand with a brush to get a custom camouflage colour. Test the shades on your chin first gently brush a bit of concealer onto the area where you need it and the press it in with your finger continue until the area is covered.
+
+        \n\nStep 5: Powder
+Using a puff over a powder bush to apply the powder on face, blend it very well the to your desire task.
+
+        \n\nStep 6: Eye shadow
+Apply your favourite eye shadow, you can mix different colour together.
+
+        \n\nStep 7: Eye line
+Apply eye liner to sharpen your eye shadow
+
+        \n\nStep 8: Mascara
+Apply mascara to your lashes to make them look perfect.
+
+        \n\nStep 9: Lipstick
+Apply any lipstick of your choice, blend the side of your mouth with concede.
+
+        \n\nStep 10: blush
+Apply blush to give you that amazing good of a grid.
+    </string>
+    <string name="everyday_makeup">
+        Step 1: foundation
+Squeeze some on to your hand warm it up and blend it in using your finger or a sponge.
+
+        \n\nStep 2: Eye brow
+Draw any shape of eye brow, and conceal it with your conceal
+
+        \n\nStep 3: Powder
+Proceed to applying your powder with a puff over powder brush
+
+        \n\nStep 4: eyeshadow
+Put on a simple light eye shadow
+
+        \n\nStep 5: Eyeline
+Apply eyeline to shapen your eye shadow
+
+        \n\nStep 6: Mascara
+Mascarize your eyelashes to look perfect
+
+        \n\nStep 7: lip gloss
+apply a light lipgloss to your lip -> perfct everyday makeup
+
+
+    </string>
+
+    <string name="party_makeup">
+
+        step 1: Foundation
+apply your foundation using your finger or sponge
+
+        \n\nstep 2: eyebrow
+draw your eye brow  and conceal it with concealer
+
+        \n\nstep 3: powder
+apply your powder with a puff of powder brush
+
+
+    </string>
+    <string name="carnival_makeup">
+
+        Step 1: primer or foundation
+Always use a primer before applying makeup, primer provide a smooth base for makeup.
+
+        \n\nStep 2: eye lashes
+Use spirit gum to apply your gems but not to stick your lashes
+
+        \n\nStep 3: liquia line
+Apply liquid line beneath your black lashes or colour lashes to keep lashes to keep lashes or longer
+
+        \n\nStep 4: powder
+Use a layering technique with your powder and some fix, it spray to keep your look fresh all day long
+
+        \n\nStep 5:
+Lipstick line you lips and fill in lips with linene.
+
+    </string>
+</resources>
